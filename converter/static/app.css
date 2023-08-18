@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(0, 35, 52);
+}
+
+body {
+    background-color: rgb(144, 179, 179);
+}
+
+.from_currency {
+    margin: 10px;
+}
+
+.to_currency {
+    margin: 10px;
+}
+
+.amount {
+    margin: 10px;
+}
+
+body {
+    margin: auto;   
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
